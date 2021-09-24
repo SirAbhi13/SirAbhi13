@@ -1,4 +1,5 @@
 <h2> Abhinav Yadav <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/emojis/553085034068705285.gif?v=1" width="350"/>
 <h3>Hi there 👋</h3>
 <hr>
 <h3> 👨🏻‍💻 About Me </h3>
@@ -13,15 +14,6 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SirAbhi13&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abhinav's Github Stats">
 <br>
-## Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SirAbhi13.SirAbhi13)
-
-## Languages I use
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirAbhi13&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SirAbhi13/github-readme-stats)
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
