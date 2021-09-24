@@ -7,9 +7,9 @@
 - 🌱 &nbsp; Love Python.
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🌱 &nbsp; Open Source Enthusiast.
 <!--- 💼 &nbsp; Working as a freelancer on fiverr <br>
 [![Fiverr Badge](https://img.shields.io/badge/Fiverr-abhi_sama-brightgreen?style=for-the-badge)] (Fiverr-ABHI)(https://www.fiverr.com/abhi_sama)  -->
-- 🌱 &nbsp; Open Source Enthusiast.
 <br>
 [![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirAbhi13)](https://github.com/SirAbhi13/github-readme-stats)
 
