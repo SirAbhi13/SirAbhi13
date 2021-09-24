@@ -20,7 +20,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirAbhi13&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SirAbhi13/github-readme-stats)
+[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirAbhi13&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SirAbhi13/github-readme-stats)
 
 
 
