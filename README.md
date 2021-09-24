@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Currently learning Front-End Web Development.
-- 🌱 @nbsp; Love Python.
+- 🌱 &nbsp; Love Python.
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 <!--- 💼 &nbsp; Working as a freelancer on fiverr <br>
