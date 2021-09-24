@@ -1,5 +1,5 @@
 <h2> Abhinav Yadav <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/emojis/553085034068705285.gif?v=1" width="350"/>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/emojis/553085034068705285.gif?v=1" width="100"/>
 <h3>Hi there 👋</h3>
 <hr>
 <h3> 👨🏻‍💻 About Me </h3>
