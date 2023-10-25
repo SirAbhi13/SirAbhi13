@@ -7,10 +7,9 @@
 - 🔭 &nbsp; Currently learning Backend Web Development.
 - 🌱 &nbsp; Love Python.
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Science, computer programming.
+- 🎓 &nbsp; Final Year Comp Sci Student.
 - 🌱 &nbsp; Open Source Enthusiast.
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirabhi13&show_icons=true&theme=dracula&locale=en" alt="sirabhi13" /></p>
+
 <br>
 <h3>Languages and Tools:</h3>
 <hr>
